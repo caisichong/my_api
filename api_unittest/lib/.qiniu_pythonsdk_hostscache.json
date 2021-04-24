@@ -1,0 +1,24 @@
+{
+  "http:qH2W7tevsf2ENpxoexKWBD9NvMQ0CF6-722myt1t:yanyin-static": {
+    "upHosts": [
+      "http://up-z2.qiniu.com",
+      "http://upload-z2.qiniu.com",
+      "-H up-z2.qiniu.com http://14.152.58.16"
+    ],
+    "ioHosts": [
+      "http://iovip-z2.qbox.me"
+    ],
+    "deadline": 1614251881
+  },
+  "http:Zy-9JQ68qG27GdZj5GbhoUyyg7jlq4TtDpBZ43u-:excel-case": {
+    "upHosts": [
+      "http://up-z2.qiniu.com",
+      "http://upload-z2.qiniu.com",
+      "-H up-z2.qiniu.com http://14.152.58.16"
+    ],
+    "ioHosts": [
+      "http://iovip-z2.qbox.me"
+    ],
+    "deadline": 1614311623
+  }
+}
